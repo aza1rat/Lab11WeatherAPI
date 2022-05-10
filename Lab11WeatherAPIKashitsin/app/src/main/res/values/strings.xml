@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab11-WeatherAPI Kashitsin</string>
+    <string name="city">Город:</string>
+    <string name="api">API ключ:</string>
+    <string name="query">Запрос</string>
+    <string name="history">История</string>
+    <string name="clear">Очистить</string>
+    <string name="author">Кашицын, 393</string>
+    <string name="city_sample">Moscow</string>
+    <string name="api_sample">7aa8c21624dc4377a97103716221104</string>
+</resources>
